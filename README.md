@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 
 - 🖥️ I'm currently working as Application developer at IBM
 
-- ⚡ I'm addicted to learning and growing everyday currently working to improve my skills on Docker , Kubrnetes and containers
+- ⚡ I'm addicted to learning and growing everyday currently working to improve my skills on Docker , Kubernetes and containers
 
 - 🤔 I’m looking for help with Full stack develpoment and project collaborations
 
 - 📫 How to reach me: ...
   - 💡 : [Medium](https://medium.com/@shubhamsugara22)
   - 🏢 : [Linkedin](https://www.linkedin.com/in/shubham-sugara-475487ba)
-  - 📧 :[Gmail](shubhamsugara22@gmail.com)
+  - 📧 : [Gmail](shubhamsugara22@gmail.com)
 
 [![Shubham sugara's github stats](https://github-readme-stats.vercel.app/api?username=shubhamsugara22&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
