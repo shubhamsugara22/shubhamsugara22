@@ -16,6 +16,6 @@ Here are some ideas to get you started:
   - 🏢 : [Linkedin](https://www.linkedin.com/in/shubham-sugara-475487ba)
   - 📧 :[Gmail](shubhamsugara22@gmail.com)
 
-[![Shubham sugara github stats]https://github-readme-stats.vercel.app/api?username=shubhamsugara22&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Shubham sugara's github stats](https://github-readme-stats.vercel.app/api?username=shubhamsugara22&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsugara22)](https://github.com/anuraghazra/github-readme-stats)
