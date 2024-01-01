@@ -3,11 +3,12 @@
                              
 ## 🚀 About me
 
-- 🖥️ I'm  Shubham Singh sugara currently working as Application developer at IBM
+- 🖥️ I'm  Shubham Singh Sugara currently working as Senior Software Engineer at Moody's Analytic
+-  Previously worked as Application Developer in IBM/Kyndryl for 4+ years
+      
+- ⚡ I'm addicted to learning and growing everyday currently working to improve my skills on Containerization and system design. 
 
-- ⚡ I'm addicted to learning and growing everyday currently working to improve my skills on Docker,Kubernetes and Containers.
-
-- 🤔 I’m looking for help with Full stack develpoment and project collaborations.
+- 🤔 I’m looking for help with open source contribution and project collaborations.
 
 - 📫 How to reach me: ...
   - 💡 : [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shubhamsugara22)
