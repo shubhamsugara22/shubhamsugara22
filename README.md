@@ -19,7 +19,7 @@
  ## 📈 Stats
 
 [![Shubham sugara's github stats](https://github-readme-stats.vercel.app/api?username=shubhamsugara22&count_private=true&show_icons=true&theme=gotham&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
+![Shubham Sugara's Addtional stats](https://github-readme-stats.vercel.app/api?username=shubhamsugara22&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ## ⚒️ Skills
 
 ### Languages
