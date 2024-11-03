@@ -19,7 +19,8 @@
  ## 📈 Stats
 
 [![Shubham sugara's github stats](https://github-readme-stats.vercel.app/api?username=shubhamsugara22&count_private=true&show_icons=true&theme=gotham&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-![Shubham Sugara's Addtional stats](https://github-readme-stats.vercel.app/api?username=shubhamsugara22&theme=gotham&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamsugara22&theme=gotham)](https://git.io/streak-stats)
+
 ## ⚒️ Skills
 
 ### Languages
@@ -28,7 +29,7 @@
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsugara22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsugara22&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Front-end Development
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
