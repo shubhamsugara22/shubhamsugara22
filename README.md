@@ -3,7 +3,7 @@
                              
 ## 🚀 About me
 
-- 🖥️ I'm  Shubham Singh Sugara currently working as Senior Software Engineer at Moody's Analytic
+- 🖥️ I'm  Shubham Singh Sugara currently working as Senior Software Engineer at Moody's Analytics
 -  Previously worked as Application Developer in IBM/Kyndryl for 4+ years
       
 - ⚡ I'm addicted to learning and growing everyday currently working to improve my skills on Containerization and system design. 
@@ -19,7 +19,7 @@
  ## 📈 Stats
 
 [![Shubham sugara's github stats](https://github-readme-stats.vercel.app/api?username=shubhamsugara22&count_private=true&show_icons=true&theme=gotham&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-![Shubham Sugara's Addtional stats](https://github-readme-stats.vercel.app/api?username=shubhamsugara22&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Shubham Sugara's Addtional stats](https://github-readme-stats.vercel.app/api?username=shubhamsugara22&theme=gotham&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ## ⚒️ Skills
 
 ### Languages
