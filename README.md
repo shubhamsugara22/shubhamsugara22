@@ -19,7 +19,6 @@
  ## 📈 Stats
 
 [![Shubham sugara's github stats](https://github-readme-stats.vercel.app/api?username=shubhamsugara22&count_private=true&show_icons=true&theme=gotham&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamsugara22&theme=gotham)](https://git.io/streak-stats)
 
 ## ⚒️ Skills
 
