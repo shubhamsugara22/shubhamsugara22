@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sugara-475487ba)
 [![Topmate](https://img.shields.io/badge/Topmate-4A90E2?style=for-the-badge&logoColor=white)](https://topmate.io/shubham_singh249)
 [![Blog](https://img.shields.io/badge/Blog-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://scaling-blog-sre-sss.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=react&logoColor=white)](https://verci-next-linker-2t1oedpil-shubhamsugara22s-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=react&logoColor=white)](https://verci-next-linker.vercel.app/)
 
 ---
 
