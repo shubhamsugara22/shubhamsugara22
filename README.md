@@ -20,9 +20,14 @@
 ## 🛠️ Top Languages  
 ![Top Languages](./profile/top-langs.svg)
 
-## 🛠️ Extra Stats  
+<!-- ## 🛠️ Extra Stats -- >
 ![Shubham Extra GitHub stats](https://github-readme-stats-henna-ten-17.vercel.app/api?username=shubhamsugara22&theme=gotham&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<! --   -->
+### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 ---
 ## 🧑‍💻 Languages I Work With
 
