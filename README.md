@@ -14,6 +14,9 @@
 
 ---
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 ## 🧩 GitHub Stats  
 [![Shubham Sugara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamsugara22&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
