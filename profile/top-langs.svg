@@ -180,7 +180,7 @@
           data-testid="lang-progress"
           x="241.79"
           y="0"
-          width="18.22"
+          width="18.21"
           height="8"
           fill="#e34c26"
         />
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 35.57%
+        Rust 35.58%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
